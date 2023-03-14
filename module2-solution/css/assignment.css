@@ -11,6 +11,10 @@ margin-left: auto;
 margin-right: auto;
 font-family:sans-serif;
 }
+h2 {
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .row {
 width: 30px;
 }
@@ -31,9 +35,9 @@ width: 20%;
 width: 20%;
 }
 }
-</style>
-
 <h2 align="center">Our Menu</h2>
 <div class="col-lg-1">column1</div>
 <div class="col-lg-2">coloumn2</div>
 <div class="col-lg-3">coloumn3</div>
+</style>
+
