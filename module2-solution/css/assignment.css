@@ -10,12 +10,10 @@
 #p2 { 
     background-color: #D8272b ;
     float: right;
-
 }
 #p3 { 
     background-color:khaki;
     float: right;
-    
 }
 div {
     background-color: gray;
@@ -34,7 +32,6 @@ p {
    height: 30px;
    text-align: center;
    border: 2px solid black;
-
 }
 
 h2 {
@@ -42,5 +39,3 @@ h2 {
     font-family: cursive;
     font-weight: bold;
 }
-
-
